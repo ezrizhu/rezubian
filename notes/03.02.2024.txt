@@ -1,0 +1,66 @@
+A: lilys very high
+B: lily figured out what a card is in a game
+A card is a list of inputs and outputs
+input: some combination of state changes to the system
+output: some combinations of states changes to the system
+
+player wants to play a card
+what combination of state changes are involved?
+
+Input:
+cost: player needs to pay for card
+cost: card in hand
+cost: other cards may be used aswell
+
+Output:
+card may be moved
+effects applied
+
+Integers:
+
+card has conditions, if condition made, it will have side effects
+
+starting: nothing in decks
+
+game bootstrapping: only side effects, no conditions has to be made
+
+each card will track the last place it moved to
+
+every card in the game can be stored in one list, and each card individually can store the last card it moved to
+
+AI: what combination of cards player having access to -> $$$
+
+card existance -> money gained
+
+amount of players playing & time playing!!
+
+way to transcribe any card game using basic instructions
+universal system to describe whats happening in a card game
+
+a card can be used in multiple types of games, because they can have different values.
+e.g., one can play magic at the same time as uno, effect crossovers
+
+name - unique identifier
+
+all cards have statically defined starting points, so do all board game zones
+players have statically defined access to starting point/zone
+
+car
+named_car = 1;
+named-cat = 0;
+named_apple = 0;
+
+initially, players can input how they want the game to feel/look, then cards will be generated for that.
+
+creators can build their own games with our generator, and we can profit. naturally no competition
+
+1. prove that every card game is be able to described as a simple set of parameters/maths
+2. crowdsource the efforts
+
+Paper title: "It might just be math"
+insert moon gun astronot "it's been math" "it always has been"
+ezri@fag.pet
+lily@fag.pet
+
+idea was made when lily was on kush
+lily did not take her meds
