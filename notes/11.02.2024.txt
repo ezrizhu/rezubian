@@ -1,1 +1,8 @@
 make the 0 and 1 card automated
+start with original list
+and then make a subset
+and then create each permutation
+check if the permutation is valid
+if the permutation is valid than save it
+otherwise delete it
+continue
