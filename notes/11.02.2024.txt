@@ -7,3 +7,5 @@ check if the permutation is valid
 if the permutation is valid than save it
 otherwise delete it
 continue
+MAKE THEM FROM THE DESCRIPTION OF THE INPUTS
+
